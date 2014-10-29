@@ -5,23 +5,25 @@ This is a Maltego-Viper integration.
 Viper can be found at http://viper.li
 
 To install:
-
+```
 git clone http://github.com/deralexxx/maltego-viper
 
 cd maltego-viper
 
 cp  src/viper/resources/etc/viper_template.conf viper.conf
 
-edit config file:
-
 vi src/viper/resources/etc/viper.conf
 
-build:
 python setup.py install --user && canari create-profile viper
+```
+
 
 import created files within Maltego
 
-This integration is build with canari.
+This integration is build with canari (https://github.com/allfro/canari).
+
+<hr />
+
 
 Canari Readme:
 
