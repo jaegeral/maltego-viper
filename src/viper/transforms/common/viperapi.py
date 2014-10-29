@@ -13,7 +13,7 @@ import urllib2,urllib
 
 
 import os
-os.environ['no_proxy'] = '127.0.0.1,localhost,basf.net'
+os.environ['no_proxy'] = '127.0.0.1,localhost'
 
 
 # Returns test result

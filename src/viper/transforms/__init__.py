@@ -18,6 +18,5 @@ __all__ = [
     'test',
     'tagToHash',
     'hashToInfo',
-    'common',
-    'helloworld'
+    'common'
 ]

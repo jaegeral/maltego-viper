@@ -7,5 +7,5 @@ __credits__ = []
 __license__ = 'GPL'
 __version__ = '0.1'
 __maintainer__ = 'jaegeral'
-__email__ = 'alexander.jaeger@basf.com'
+__email__ = 'mail@alexanderjaeger.de'
 __status__ = 'Development'
